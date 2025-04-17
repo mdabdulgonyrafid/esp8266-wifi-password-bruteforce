@@ -38,9 +38,8 @@
 
   <h3>Screenshots:</h3>
   <ul>
-    <li><img src="images/screenshot1.jpg" alt="Serial output - Scanning" width="300"></li>
-    <li><img src="images/screenshot2.jpg" alt="Serial input - Network selected" width="300"></li>
-    <li><img src="images/screenshot3.jpg" alt="LED blinking" width="300"></li>
+    <li><img src="https://github.com/mdabdulgonyrafid/esp8266-wifi-password-bruteforce/blob/main/screenshots/PXL_20250417_172846765.PORTRAIT.ORIGINAL.jpg"  alt="LED blinking" width="300"></li>
+    <li><img src="https://github.com/mdabdulgonyrafid/esp8266-wifi-password-bruteforce/blob/main/screenshots/Screenshot_20250417-232811.png" alt="Serial output - Scanning" width="300"></li>
   </ul>
 
   <h2>How to Use</h2>
